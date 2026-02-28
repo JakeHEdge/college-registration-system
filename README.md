@@ -19,4 +19,4 @@ Features:
 This project was created to practice backend logic, database design, and role-based system functionality.
 
 ## Screenshots
-![Dashboard](images/College Rec.png)
+![Dashboard](images/Dashboard.png)
