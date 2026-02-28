@@ -37,4 +37,4 @@ These were addressed through structured schema planning and modular class design
 
 ## Screenshots
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
