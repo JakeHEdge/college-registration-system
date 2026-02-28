@@ -1,22 +1,40 @@
-# college-registration-system
-Java and MySQL college registration system with admin and teacher roles
+# College Registration System
 
-College Registration System
+## Overview
 
-A Java and MySQL-based college registration system developed as part of my Computer Science coursework.
+A role-based academic registration platform built using Java and MySQL.  
+The system simulates a real-world college administration environment, implementing secure authentication, relational schema design, and modular object-oriented architecture to manage student and teacher workflows.
 
-Tech stack:
+## Tech Stack
+
 - Java
 - MySQL
+- JDBC
+- Object-Oriented Programming (OOP)
 
-Features:
-- Admin and teacher login roles
+## Key Features
+
+- Role-based login system (Admin & Teacher access)
 - Student record management
-- CRUD functionality (create, read, update, delete)
-- Basic database integration
-- Object-oriented program structure
+- Full CRUD operations (Create, Read, Update, Delete)
+- Relational database integration
+- Modular OOP structure for maintainability
 
-This project was created to practice backend logic, database design, and role-based system functionality.
+## Architecture
+
+- Layered separation between business logic and data access
+- JDBC used for database connectivity
+- Relational schema designed to maintain data integrity
+- Role-based access control enforced at authentication level
+
+## Challenges & Solutions
+
+- Designing relational tables to prevent data duplication
+- Implementing secure login validation for multiple user roles
+- Maintaining consistent CRUD operations across database transactions
+
+These were addressed through structured schema planning and modular class design.
 
 ## Screenshots
-![Dashboard](/Dashboard.png)
+
+![Dashboard](images/dashboard.png)
